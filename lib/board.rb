@@ -17,3 +17,5 @@
 
 # # Move X to the Position 2, Middle
 # row[1] = "x"
+
+board = (" ", " ", )
